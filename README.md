@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <i>Learning continuously. Analyzing thoughtfully. Growing consistently.</i>
+  <i>Learning continuously. Analyzing thoughtfully. Growing consistently</i>
 </p>
